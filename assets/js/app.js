@@ -32,7 +32,7 @@ function startSlideshow() {
   showSlide(currentIndex);
   if (currentIndex < containers.length - 1) {
     currentIndex++;
-    setTimeout(startSlideshow, 1000); 
+    setTimeout(startSlideshow, 3000); 
   }
 }
 
