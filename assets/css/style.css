@@ -70,7 +70,10 @@ h1{
 @media (max-width:768px) {
     h1{
     
-    font-size: 25px;
+    font-size: 45px;
     margin-top: 15px;
 }
+.heading-text{
+    font-size: 25px;
+}  
 }
